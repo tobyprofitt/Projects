@@ -1,0 +1,991 @@
+,year,round,team1,team2,hscore,ascore
+0,2018,1,Adelaide,Essendon,99,87
+1,2018,1,North Melbourne,Gold Coast,55,39
+2,2018,1,Western Bulldogs,Greater Western Sydney,133,51
+3,2018,1,Collingwood,Hawthorn,101,67
+4,2018,1,Geelong,Melbourne,94,97
+5,2018,1,Fremantle,Port Adelaide,110,60
+6,2018,1,Carlton,Richmond,121,95
+7,2018,1,Brisbane Lions,St Kilda,107,82
+8,2018,1,Sydney,West Coast,86,115
+9,2018,2,Richmond,Adelaide,118,82
+10,2018,2,Melbourne,Brisbane Lions,74,100
+11,2018,2,Gold Coast,Carlton,67,101
+12,2018,2,Greater Western Sydney,Collingwood,79,95
+13,2018,2,Essendon,Fremantle,106,90
+14,2018,2,Hawthorn,Geelong,117,118
+15,2018,2,St Kilda,North Melbourne,95,43
+16,2018,2,Port Adelaide,Sydney,71,94
+17,2018,2,West Coast,Western Bulldogs,70,121
+18,2018,3,Collingwood,Carlton,76,100
+19,2018,3,Fremantle,Gold Coast,68,96
+20,2018,3,North Melbourne,Melbourne,123,86
+21,2018,3,Brisbane Lions,Port Adelaide,97,92
+22,2018,3,Hawthorn,Richmond,102,89
+23,2018,3,Adelaide,St Kilda,55,104
+24,2018,3,Greater Western Sydney,Sydney,103,87
+25,2018,3,Geelong,West Coast,95,80
+26,2018,3,Essendon,Western Bulldogs,104,83
+27,2018,4,Collingwood,Adelaide,58,106
+28,2018,4,Port Adelaide,Essendon,106,84
+29,2018,4,St Kilda,Geelong,103,56
+30,2018,4,Fremantle,Greater Western Sydney,82,51
+31,2018,4,Melbourne,Hawthorn,115,48
+32,2018,4,Carlton,North Melbourne,116,30
+33,2018,4,Brisbane Lions,Richmond,110,17
+34,2018,4,Gold Coast,West Coast,139,59
+35,2018,4,Sydney,Western Bulldogs,79,86
+36,2018,5,Gold Coast,Brisbane Lions,71,76
+37,2018,5,West Coast,Carlton,69,79
+38,2018,5,Essendon,Collingwood,101,52
+39,2018,5,Western Bulldogs,Fremantle,108,54
+40,2018,5,Richmond,Melbourne,56,102
+41,2018,5,Hawthorn,North Melbourne,98,70
+42,2018,5,Geelong,Port Adelaide,50,84
+43,2018,5,Greater Western Sydney,St Kilda,73,73
+44,2018,5,Adelaide,Sydney,75,85
+45,2018,6,Gold Coast,Adelaide,110,62
+46,2018,6,Richmond,Collingwood,70,113
+47,2018,6,Melbourne,Essendon,72,108
+48,2018,6,West Coast,Fremantle,81,89
+49,2018,6,Sydney,Geelong,69,86
+50,2018,6,Brisbane Lions,Greater Western Sydney,77,43
+51,2018,6,St Kilda,Hawthorn,89,54
+52,2018,6,Port Adelaide,North Melbourne,69,102
+53,2018,6,Carlton,Western Bulldogs,80,59
+54,2018,7,Carlton,Adelaide,125,70
+55,2018,7,Collingwood,Brisbane Lions,114,121
+56,2018,7,Hawthorn,Essendon,67,90
+57,2018,7,Greater Western Sydney,Geelong,93,32
+58,2018,7,Fremantle,Richmond,110,33
+59,2018,7,Melbourne,St Kilda,67,106
+60,2018,7,North Melbourne,Sydney,66,68
+61,2018,7,Port Adelaide,West Coast,102,60
+62,2018,7,Gold Coast,Western Bulldogs,81,72
+63,2018,8,Essendon,Carlton,91,78
+64,2018,8,Geelong,Collingwood,45,66
+65,2018,8,St Kilda,Fremantle,89,59
+66,2018,8,Melbourne,Gold Coast,77,146
+67,2018,8,West Coast,Greater Western Sydney,61,86
+68,2018,8,Sydney,Hawthorn,71,79
+69,2018,8,Richmond,North Melbourne,72,82
+70,2018,8,Adelaide,Port Adelaide,95,90
+71,2018,8,Brisbane Lions,Western Bulldogs,107,93
+72,2018,9,Western Bulldogs,Adelaide,63,26
+73,2018,9,Hawthorn,Brisbane Lions,129,73
+74,2018,9,Melbourne,Carlton,50,159
+75,2018,9,Geelong,Essendon,84,50
+76,2018,9,Port Adelaide,Gold Coast,42,82
+77,2018,9,Greater Western Sydney,North Melbourne,112,69
+78,2018,9,Collingwood,St Kilda,72,100
+79,2018,9,Fremantle,Sydney,111,52
+80,2018,9,Richmond,West Coast,130,83
+81,2018,10,Sydney,Brisbane Lions,49,67
+82,2018,10,Western Bulldogs,Collingwood,90,55
+83,2018,10,North Melbourne,Fremantle,58,86
+84,2018,10,Carlton,Geelong,73,45
+85,2018,10,Essendon,Greater Western Sydney,60,95
+86,2018,10,West Coast,Hawthorn,60,75
+87,2018,10,Adelaide,Melbourne,146,55
+88,2018,10,St Kilda,Richmond,105,77
+89,2018,11,Greater Western Sydney,Adelaide,81,97
+90,2018,11,Fremantle,Collingwood,138,77
+91,2018,11,Richmond,Essendon,43,114
+92,2018,11,Geelong,Gold Coast,36,121
+93,2018,11,Port Adelaide,Hawthorn,64,61
+94,2018,11,Brisbane Lions,North Melbourne,141,87
+95,2018,11,Carlton,Sydney,91,61
+96,2018,11,St Kilda,West Coast,101,88
+97,2018,11,Melbourne,Western Bulldogs,51,100
+98,2018,12,Essendon,Brisbane Lions,62,84
+99,2018,12,Adelaide,Fremantle,71,68
+100,2018,12,North Melbourne,Geelong,96,59
+101,2018,12,Gold Coast,Greater Western Sydney,134,26
+102,2018,12,Collingwood,Melbourne,91,133
+103,2018,12,Richmond,Port Adelaide,72,58
+104,2018,12,Sydney,St Kilda,55,126
+105,2018,13,Fremantle,Carlton,46,103
+106,2018,13,Richmond,Geelong,65,83
+107,2018,13,St Kilda,Gold Coast,78,80
+108,2018,13,Adelaide,Hawthorn,88,32
+109,2018,13,Western Bulldogs,Port Adelaide,132,75
+110,2018,13,West Coast,Sydney,72,57
+111,2018,14,Greater Western Sydney,Brisbane Lions,82,109
+112,2018,14,Carlton,Collingwood,79,59
+113,2018,14,Gold Coast,Hawthorn,96,43
+114,2018,14,Melbourne,Port Adelaide,75,65
+115,2018,14,Essendon,West Coast,52,80
+116,2018,14,North Melbourne,Western Bulldogs,75,77
+117,2018,15,West Coast,Adelaide,88,78
+118,2018,15,Port Adelaide,Carlton,69,90
+119,2018,15,North Melbourne,Essendon,125,108
+120,2018,15,Brisbane Lions,Fremantle,64,119
+121,2018,15,Collingwood,Gold Coast,60,99
+122,2018,15,Hawthorn,Greater Western Sydney,95,84
+123,2018,15,St Kilda,Melbourne,117,119
+124,2018,15,Sydney,Richmond,93,67
+125,2018,15,Geelong,Western Bulldogs,103,101
+126,2018,16,Carlton,Brisbane Lions,120,55
+127,2018,16,Collingwood,Essendon,62,78
+128,2018,16,Fremantle,Melbourne,102,48
+129,2018,16,Gold Coast,North Melbourne,95,58
+130,2018,16,St Kilda,Port Adelaide,86,50
+131,2018,16,Adelaide,Richmond,103,56
+132,2018,16,Geelong,Sydney,59,71
+133,2018,16,Greater Western Sydney,West Coast,86,75
+134,2018,16,Hawthorn,Western Bulldogs,59,122
+135,2018,17,Geelong,Adelaide,112,97
+136,2018,17,West Coast,Collingwood,67,102
+137,2018,17,Port Adelaide,Fremantle,59,50
+138,2018,17,Essendon,Gold Coast,51,95
+139,2018,17,Richmond,Greater Western Sydney,79,77
+140,2018,17,Brisbane Lions,Hawthorn,65,98
+141,2018,17,Western Bulldogs,Melbourne,119,69
+142,2018,17,Sydney,North Melbourne,98,104
+143,2018,17,Carlton,St Kilda,116,52
+144,2018,18,Adelaide,Brisbane Lions,88,93
+145,2018,18,Hawthorn,Carlton,52,124
+146,2018,18,North Melbourne,Collingwood,130,64
+147,2018,18,Fremantle,Essendon,99,70
+148,2018,18,Melbourne,Geelong,100,98
+149,2018,18,Greater Western Sydney,Port Adelaide,58,80
+150,2018,18,Richmond,St Kilda,57,111
+151,2018,18,Gold Coast,Sydney,64,88
+152,2018,18,Western Bulldogs,West Coast,100,46
+153,2018,19,Melbourne,Adelaide,77,90
+154,2018,19,Sydney,Essendon,109,66
+155,2018,19,Hawthorn,Fremantle,53,112
+156,2018,19,Brisbane Lions,Geelong,120,78
+157,2018,19,Carlton,Gold Coast,44,79
+158,2018,19,St Kilda,Greater Western Sydney,86,61
+159,2018,19,West Coast,North Melbourne,81,41
+160,2018,19,Collingwood,Richmond,105,77
+161,2018,19,Port Adelaide,Western Bulldogs,34,78
+162,2018,20,Port Adelaide,Adelaide,96,93
+163,2018,20,North Melbourne,Brisbane Lions,104,107
+164,2018,20,Greater Western Sydney,Carlton,46,151
+165,2018,20,Essendon,Hawthorn,107,103
+166,2018,20,Gold Coast,Melbourne,143,47
+167,2018,20,Geelong,Richmond,85,82
+168,2018,20,Western Bulldogs,St Kilda,68,103
+169,2018,20,Collingwood,Sydney,73,71
+170,2018,20,Fremantle,West Coast,142,84
+171,2018,21,Brisbane Lions,Collingwood,104,73
+172,2018,21,St Kilda,Essendon,122,79
+173,2018,21,Carlton,Fremantle,101,72
+174,2018,21,Richmond,Gold Coast,51,125
+175,2018,21,Adelaide,Greater Western Sydney,106,92
+176,2018,21,Geelong,Hawthorn,71,60
+177,2018,21,Sydney,Melbourne,78,87
+178,2018,21,Western Bulldogs,North Melbourne,85,92
+179,2018,21,West Coast,Port Adelaide,58,62
+180,2018,22,North Melbourne,Adelaide,86,77
+181,2018,22,Western Bulldogs,Carlton,49,66
+182,2018,22,Port Adelaide,Collingwood,115,64
+183,2018,22,Fremantle,Geelong,158,25
+184,2018,22,Brisbane Lions,Gold Coast,74,78
+185,2018,22,Sydney,Greater Western Sydney,60,80
+186,2018,22,Essendon,Richmond,81,73
+187,2018,22,Hawthorn,St Kilda,76,80
+188,2018,22,Melbourne,West Coast,91,108
+189,2018,23,West Coast,Brisbane Lions,72,98
+190,2018,23,Adelaide,Carlton,61,165
+191,2018,23,Collingwood,Fremantle,67,76
+192,2018,23,Gold Coast,Geelong,142,40
+193,2018,23,Greater Western Sydney,Melbourne,102,57
+194,2018,23,Essendon,Port Adelaide,89,111
+195,2018,23,Western Bulldogs,Richmond,98,95
+196,2018,23,North Melbourne,St Kilda,94,117
+197,2018,23,Hawthorn,Sydney,74,83
+198,2018,24,Geelong,Melbourne,75,46
+199,2018,24,Hawthorn,Richmond,95,64
+200,2018,24,Greater Western Sydney,Sydney,30,79
+201,2018,24,Collingwood,West Coast,86,70
+202,2018,25,Greater Western Sydney,Collingwood,69,59
+203,2018,25,Melbourne,Hawthorn,71,104
+204,2018,26,Collingwood,Richmond,58,97
+205,2018,26,Melbourne,West Coast,121,55
+206,2018,27,Collingwood,West Coast,79,74
+207,2019,1,Hawthorn,Adelaide,55,87
+208,2019,1,West Coast,Brisbane Lions,102,58
+209,2019,1,Richmond,Carlton,64,97
+210,2019,1,Geelong,Collingwood,65,72
+211,2019,1,North Melbourne,Fremantle,141,59
+212,2019,1,Essendon,Greater Western Sydney,112,40
+213,2019,1,Port Adelaide,Melbourne,61,87
+214,2019,1,Gold Coast,St Kilda,85,84
+215,2019,1,Sydney,Western Bulldogs,82,65
+216,2019,2,St Kilda,Essendon,65,76
+217,2019,2,Melbourne,Geelong,126,46
+218,2019,2,Fremantle,Gold Coast,61,58
+219,2019,2,Western Bulldogs,Hawthorn,87,106
+220,2019,2,Brisbane Lions,North Melbourne,87,107
+221,2019,2,Carlton,Port Adelaide,88,72
+222,2019,2,Collingwood,Richmond,66,110
+223,2019,2,Adelaide,Sydney,62,88
+224,2019,2,Greater Western Sydney,West Coast,104,52
+225,2019,3,Geelong,Adelaide,75,99
+226,2019,3,Port Adelaide,Brisbane Lions,107,90
+227,2019,3,Sydney,Carlton,74,93
+228,2019,3,West Coast,Collingwood,76,98
+229,2019,3,St Kilda,Fremantle,71,66
+230,2019,3,Richmond,Greater Western Sydney,125,76
+231,2019,3,North Melbourne,Hawthorn,87,71
+232,2019,3,Essendon,Melbourne,112,130
+233,2019,3,Gold Coast,Western Bulldogs,68,73
+234,2019,4,Western Bulldogs,Collingwood,78,64
+235,2019,4,Brisbane Lions,Essendon,112,65
+236,2019,4,Greater Western Sydney,Geelong,75,79
+237,2019,4,Carlton,Gold Coast,59,57
+238,2019,4,Adelaide,North Melbourne,71,59
+239,2019,4,Richmond,Port Adelaide,92,99
+240,2019,4,Hawthorn,St Kilda,74,69
+241,2019,4,Melbourne,Sydney,78,100
+242,2019,4,Fremantle,West Coast,69,56
+243,2019,5,Gold Coast,Adelaide,119,46
+244,2019,5,Collingwood,Brisbane Lions,61,123
+245,2019,5,Fremantle,Greater Western Sydney,82,106
+246,2019,5,Geelong,Hawthorn,90,113
+247,2019,5,St Kilda,Melbourne,55,95
+248,2019,5,Essendon,North Melbourne,58,116
+249,2019,5,Sydney,Richmond,89,67
+250,2019,5,Port Adelaide,West Coast,53,95
+251,2019,5,Carlton,Western Bulldogs,57,101
+252,2019,6,Collingwood,Essendon,69,73
+253,2019,6,Western Bulldogs,Fremantle,88,69
+254,2019,6,West Coast,Geelong,104,46
+255,2019,6,Brisbane Lions,Gold Coast,62,111
+256,2019,6,Carlton,Hawthorn,93,88
+257,2019,6,North Melbourne,Port Adelaide,88,72
+258,2019,6,Melbourne,Richmond,85,42
+259,2019,6,Adelaide,St Kilda,68,97
+260,2019,6,Greater Western Sydney,Sydney,79,120
+261,2019,7,Fremantle,Adelaide,51,34
+262,2019,7,Sydney,Brisbane Lions,103,81
+263,2019,7,North Melbourne,Carlton,62,120
+264,2019,7,Port Adelaide,Collingwood,108,69
+265,2019,7,Essendon,Geelong,86,54
+266,2019,7,St Kilda,Greater Western Sydney,114,70
+267,2019,7,Hawthorn,Melbourne,79,74
+268,2019,7,Gold Coast,West Coast,80,57
+269,2019,7,Richmond,Western Bulldogs,99,52
+270,2019,8,Collingwood,Carlton,87,106
+271,2019,8,Richmond,Fremantle,86,111
+272,2019,8,Melbourne,Gold Coast,60,61
+273,2019,8,Greater Western Sydney,Hawthorn,71,38
+274,2019,8,Geelong,North Melbourne,80,104
+275,2019,8,Adelaide,Port Adelaide,68,88
+276,2019,8,West Coast,St Kilda,70,88
+277,2019,8,Essendon,Sydney,77,72
+278,2019,8,Brisbane Lions,Western Bulldogs,92,76
+279,2019,9,Adelaide,Brisbane Lions,93,92
+280,2019,9,St Kilda,Collingwood,112,71
+281,2019,9,Fremantle,Essendon,60,53
+282,2019,9,Western Bulldogs,Geelong,133,89
+283,2019,9,Carlton,Greater Western Sydney,138,45
+284,2019,9,Sydney,North Melbourne,72,77
+285,2019,9,Gold Coast,Port Adelaide,89,51
+286,2019,9,Hawthorn,Richmond,95,59
+287,2019,9,Melbourne,West Coast,85,69
+288,2019,10,West Coast,Adelaide,73,85
+289,2019,10,Brisbane Lions,Fremantle,73,72
+290,2019,10,Geelong,Gold Coast,64,91
+291,2019,10,Port Adelaide,Hawthorn,80,49
+292,2019,10,Greater Western Sydney,Melbourne,68,94
+293,2019,10,Essendon,Richmond,73,50
+294,2019,10,Carlton,St Kilda,68,55
+295,2019,10,Collingwood,Sydney,73,80
+296,2019,10,North Melbourne,Western Bulldogs,90,115
+297,2019,11,Hawthorn,Brisbane Lions,85,66
+298,2019,11,Fremantle,Collingwood,75,79
+299,2019,11,Carlton,Essendon,74,33
+300,2019,11,Sydney,Geelong,85,63
+301,2019,11,Gold Coast,Greater Western Sydney,126,43
+302,2019,11,Adelaide,Melbourne,88,90
+303,2019,11,Richmond,North Melbourne,99,62
+304,2019,11,Port Adelaide,St Kilda,69,139
+305,2019,11,Western Bulldogs,West Coast,133,72
+306,2019,12,Greater Western Sydney,Adelaide,82,61
+307,2019,12,Brisbane Lions,Carlton,78,63
+308,2019,12,Melbourne,Collingwood,98,57
+309,2019,12,North Melbourne,Gold Coast,72,99
+310,2019,12,Geelong,Richmond,37,104
+311,2019,12,West Coast,Sydney,116,71
+312,2019,13,Richmond,Adelaide,101,68
+313,2019,13,Western Bulldogs,Carlton,100,103
+314,2019,13,Hawthorn,Essendon,96,77
+315,2019,13,Port Adelaide,Fremantle,100,79
+316,2019,13,St Kilda,Gold Coast,76,80
+317,2019,13,Greater Western Sydney,North Melbourne,68,91
+318,2019,14,Fremantle,Melbourne,85,71
+319,2019,14,Geelong,Port Adelaide,67,56
+320,2019,14,Brisbane Lions,St Kilda,59,115
+321,2019,14,Hawthorn,Sydney,82,63
+322,2019,14,Essendon,West Coast,106,71
+323,2019,14,Collingwood,Western Bulldogs,73,82
+324,2019,15,Melbourne,Brisbane Lions,107,74
+325,2019,15,North Melbourne,Collingwood,37,81
+326,2019,15,Greater Western Sydney,Essendon,77,71
+327,2019,15,Carlton,Fremantle,75,79
+328,2019,15,Adelaide,Geelong,96,69
+329,2019,15,West Coast,Hawthorn,71,77
+330,2019,15,Western Bulldogs,Port Adelaide,41,66
+331,2019,15,Richmond,St Kilda,70,103
+332,2019,15,Gold Coast,Sydney,93,51
+333,2019,16,Port Adelaide,Adelaide,44,101
+334,2019,16,Melbourne,Carlton,100,105
+335,2019,16,Sydney,Essendon,76,66
+336,2019,16,West Coast,Fremantle,31,122
+337,2019,16,Richmond,Gold Coast,58,150
+338,2019,16,Brisbane Lions,Greater Western Sydney,74,94
+339,2019,16,Collingwood,Hawthorn,67,63
+340,2019,16,St Kilda,North Melbourne,112,73
+341,2019,16,Geelong,Western Bulldogs,71,55
+342,2019,17,North Melbourne,Essendon,86,81
+343,2019,17,St Kilda,Geelong,84,57
+344,2019,17,Adelaide,Gold Coast,56,151
+345,2019,17,Fremantle,Hawthorn,84,53
+346,2019,17,Brisbane Lions,Port Adelaide,49,97
+347,2019,17,Greater Western Sydney,Richmond,94,67
+348,2019,17,Carlton,Sydney,62,69
+349,2019,17,Collingwood,West Coast,77,78
+350,2019,17,Melbourne,Western Bulldogs,74,66
+351,2019,18,Essendon,Adelaide,75,96
+352,2019,18,North Melbourne,Brisbane Lions,87,75
+353,2019,18,Gold Coast,Carlton,99,75
+354,2019,18,Sydney,Fremantle,52,51
+355,2019,18,Hawthorn,Geelong,61,85
+356,2019,18,Collingwood,Greater Western Sydney,122,75
+357,2019,18,West Coast,Melbourne,78,91
+358,2019,18,Port Adelaide,Richmond,101,63
+359,2019,18,Western Bulldogs,St Kilda,116,89
+360,2019,19,Adelaide,Carlton,87,60
+361,2019,19,Richmond,Collingwood,66,98
+362,2019,19,Essendon,Gold Coast,96,106
+363,2019,19,Brisbane Lions,Hawthorn,60,87
+364,2019,19,Greater Western Sydney,Port Adelaide,55,56
+365,2019,19,Melbourne,St Kilda,104,85
+366,2019,19,Geelong,Sydney,80,107
+367,2019,19,North Melbourne,West Coast,121,72
+368,2019,19,Fremantle,Western Bulldogs,113,66
+369,2019,20,St Kilda,Adelaide,92,70
+370,2019,20,Western Bulldogs,Brisbane Lions,98,80
+371,2019,20,West Coast,Carlton,75,99
+372,2019,20,Gold Coast,Collingwood,120,51
+373,2019,20,Port Adelaide,Essendon,67,126
+374,2019,20,Geelong,Fremantle,95,61
+375,2019,20,Sydney,Greater Western Sydney,83,81
+376,2019,20,Richmond,Melbourne,60,93
+377,2019,20,Hawthorn,North Melbourne,86,64
+378,2019,21,Gold Coast,Brisbane Lions,144,53
+379,2019,21,Western Bulldogs,Essendon,33,137
+380,2019,21,North Melbourne,Geelong,69,14
+381,2019,21,Hawthorn,Greater Western Sydney,29,85
+382,2019,21,Collingwood,Melbourne,53,70
+383,2019,21,Sydney,Port Adelaide,103,56
+384,2019,21,Carlton,Richmond,73,45
+385,2019,21,Fremantle,St Kilda,72,69
+386,2019,21,Adelaide,West Coast,90,80
+387,2019,22,Collingwood,Adelaide,48,114
+388,2019,22,Geelong,Brisbane Lions,75,74
+389,2019,22,St Kilda,Carlton,78,68
+390,2019,22,Essendon,Fremantle,55,87
+391,2019,22,Western Bulldogs,Greater Western Sydney,65,126
+392,2019,22,Gold Coast,Hawthorn,118,48
+393,2019,22,Sydney,Melbourne,42,95
+394,2019,22,Port Adelaide,North Melbourne,144,58
+395,2019,22,West Coast,Richmond,88,82
+396,2019,23,Essendon,Collingwood,76,65
+397,2019,23,Carlton,Geelong,129,61
+398,2019,23,Greater Western Sydney,Gold Coast,55,127
+399,2019,23,Melbourne,North Melbourne,88,83
+400,2019,23,Fremantle,Port Adelaide,110,67
+401,2019,23,Brisbane Lions,Richmond,82,55
+402,2019,23,St Kilda,Sydney,109,64
+403,2019,23,Hawthorn,West Coast,67,105
+404,2019,23,Adelaide,Western Bulldogs,121,87
+405,2019,24,Richmond,Brisbane Lions,65,112
+406,2019,24,Collingwood,Geelong,51,61
+407,2019,24,Western Bulldogs,Greater Western Sydney,113,55
+408,2019,24,Essendon,West Coast,116,61
+409,2019,25,Greater Western Sydney,Brisbane Lions,80,83
+410,2019,25,West Coast,Geelong,88,68
+411,2019,26,Greater Western Sydney,Collingwood,52,56
+412,2019,26,Geelong,Richmond,85,66
+413,2019,27,Greater Western Sydney,Richmond,114,25
+414,2020,1,Sydney,Adelaide,71,74
+415,2020,1,Fremantle,Essendon,63,57
+416,2020,1,Port Adelaide,Gold Coast,29,76
+417,2020,1,Geelong,Greater Western Sydney,105,73
+418,2020,1,Brisbane Lions,Hawthorn,90,62
+419,2020,1,St Kilda,North Melbourne,56,54
+420,2020,1,Carlton,Richmond,105,81
+421,2020,1,Melbourne,West Coast,78,51
+422,2020,1,Collingwood,Western Bulldogs,34,86
+423,2020,2,Fremantle,Brisbane Lions,81,69
+424,2020,2,Melbourne,Carlton,53,54
+425,2020,2,Richmond,Collingwood,36,36
+426,2020,2,Hawthorn,Geelong,108,47
+427,2020,2,West Coast,Gold Coast,90,46
+428,2020,2,North Melbourne,Greater Western Sydney,60,80
+429,2020,2,Adelaide,Port Adelaide,110,35
+430,2020,2,Western Bulldogs,St Kilda,88,49
+431,2020,2,Essendon,Sydney,73,79
+432,2020,3,West Coast,Brisbane Lions,74,44
+433,2020,3,St Kilda,Collingwood,81,37
+434,2020,3,Port Adelaide,Fremantle,41,70
+435,2020,3,Carlton,Geelong,77,79
+436,2020,3,Adelaide,Gold Coast,82,29
+437,2020,3,Sydney,North Melbourne,60,71
+438,2020,3,Hawthorn,Richmond,39,71
+439,2020,3,Greater Western Sydney,Western Bulldogs,57,33
+440,2020,4,Adelaide,Brisbane Lions,83,46
+441,2020,4,Carlton,Essendon,51,52
+442,2020,4,Fremantle,Gold Coast,64,51
+443,2020,4,Collingwood,Greater Western Sydney,66,64
+444,2020,4,North Melbourne,Hawthorn,58,54
+445,2020,4,Geelong,Melbourne,44,47
+446,2020,4,West Coast,Port Adelaide,89,41
+447,2020,4,Richmond,St Kilda,93,67
+448,2020,4,Western Bulldogs,Sydney,39,67
+449,2020,5,Fremantle,Adelaide,34,54
+450,2020,5,Port Adelaide,Brisbane Lions,85,48
+451,2020,5,St Kilda,Carlton,55,73
+452,2020,5,Essendon,Collingwood,48,63
+453,2020,5,Gold Coast,Geelong,89,52
+454,2020,5,Hawthorn,Greater Western Sydney,83,49
+455,2020,5,Richmond,Melbourne,52,79
+456,2020,5,Sydney,West Coast,77,43
+457,2020,5,North Melbourne,Western Bulldogs,87,38
+458,2020,6,Western Bulldogs,Carlton,103,51
+459,2020,6,Hawthorn,Collingwood,59,27
+460,2020,6,North Melbourne,Essendon,67,53
+461,2020,6,St Kilda,Fremantle,79,73
+462,2020,6,Brisbane Lions,Geelong,73,46
+463,2020,6,Gold Coast,Melbourne,80,63
+464,2020,6,Greater Western Sydney,Port Adelaide,63,46
+465,2020,6,Sydney,Richmond,34,26
+466,2020,6,Adelaide,West Coast,67,34
+467,2020,7,St Kilda,Adelaide,55,78
+468,2020,7,Port Adelaide,Carlton,61,64
+469,2020,7,Western Bulldogs,Essendon,51,93
+470,2020,7,West Coast,Fremantle,32,62
+471,2020,7,Collingwood,Geelong,35,57
+472,2020,7,Brisbane Lions,Greater Western Sydney,68,88
+473,2020,7,Melbourne,Hawthorn,48,91
+474,2020,7,North Melbourne,Richmond,77,23
+475,2020,7,Gold Coast,Sydney,60,92
+476,2020,8,Essendon,Adelaide,59,62
+477,2020,8,Geelong,Fremantle,16,48
+478,2020,8,Western Bulldogs,Gold Coast,46,51
+479,2020,8,Richmond,Greater Western Sydney,62,50
+480,2020,8,Brisbane Lions,Melbourne,49,53
+481,2020,8,Carlton,North Melbourne,57,64
+482,2020,8,St Kilda,Port Adelaide,44,73
+483,2020,8,Hawthorn,Sydney,60,53
+484,2020,8,Collingwood,West Coast,111,45
+485,2020,9,Hawthorn,Carlton,58,89
+486,2020,9,Brisbane Lions,Essendon,28,91
+487,2020,9,Collingwood,Fremantle,61,49
+488,2020,9,Greater Western Sydney,Gold Coast,35,61
+489,2020,9,Port Adelaide,Melbourne,32,83
+490,2020,9,Adelaide,North Melbourne,119,50
+491,2020,9,Sydney,St Kilda,101,48
+492,2020,9,Geelong,West Coast,73,64
+493,2020,9,Richmond,Western Bulldogs,49,90
+494,2020,10,Melbourne,Adelaide,37,88
+495,2020,10,Sydney,Collingwood,50,41
+496,2020,10,Greater Western Sydney,Essendon,55,59
+497,2020,10,North Melbourne,Geelong,90,57
+498,2020,10,St Kilda,Gold Coast,74,78
+499,2020,10,Western Bulldogs,Port Adelaide,55,42
+500,2020,10,Brisbane Lions,Richmond,82,41
+501,2020,11,Collingwood,Adelaide,38,62
+502,2020,11,Western Bulldogs,Brisbane Lions,96,72
+503,2020,11,Hawthorn,Fremantle,48,32
+504,2020,11,Essendon,Gold Coast,73,73
+505,2020,11,North Melbourne,Melbourne,92,35
+506,2020,11,Richmond,Port Adelaide,93,72
+507,2020,11,Geelong,St Kilda,34,93
+508,2020,11,Carlton,West Coast,72,50
+509,2020,12,Carlton,Fremantle,36,40
+510,2020,12,Port Adelaide,Geelong,91,31
+511,2020,12,Collingwood,Melbourne,100,44
+512,2020,12,Brisbane Lions,North Melbourne,52,53
+513,2020,12,Gold Coast,Richmond,53,32
+514,2020,12,Essendon,St Kilda,68,33
+515,2020,12,Greater Western Sydney,Sydney,66,25
+516,2020,12,Hawthorn,West Coast,81,49
+517,2020,12,Adelaide,Western Bulldogs,111,54
+518,2020,13,Geelong,Adelaide,37,65
+519,2020,13,St Kilda,Brisbane Lions,50,48
+520,2020,13,North Melbourne,Collingwood,65,35
+521,2020,13,Richmond,Essendon,61,73
+522,2020,13,Sydney,Fremantle,50,19
+523,2020,13,Carlton,Gold Coast,27,60
+524,2020,13,Hawthorn,Port Adelaide,68,58
+525,2020,13,Greater Western Sydney,West Coast,61,49
+526,2020,13,Melbourne,Western Bulldogs,80,52
+527,2020,14,Collingwood,Carlton,48,72
+528,2020,14,Greater Western Sydney,Fremantle,53,91
+529,2020,14,North Melbourne,Gold Coast,91,28
+530,2020,14,Essendon,Hawthorn,71,87
+531,2020,14,St Kilda,Melbourne,52,49
+532,2020,14,Sydney,Port Adelaide,73,47
+533,2020,14,West Coast,Richmond,88,61
+534,2020,14,Geelong,Western Bulldogs,61,72
+535,2020,15,Collingwood,Brisbane Lions,42,34
+536,2020,15,Carlton,Greater Western Sydney,48,39
+537,2020,15,Adelaide,Hawthorn,48,83
+538,2020,15,Fremantle,Richmond,56,29
+539,2020,15,Melbourne,Sydney,67,46
+540,2020,15,Essendon,West Coast,60,45
+541,2020,16,Greater Western Sydney,Adelaide,59,47
+542,2020,16,Gold Coast,Brisbane Lions,88,43
+543,2020,16,Sydney,Carlton,57,52
+544,2020,16,Essendon,Geelong,108,42
+545,2020,16,Fremantle,Melbourne,33,47
+546,2020,16,Port Adelaide,North Melbourne,42,78
+547,2020,16,Hawthorn,St Kilda,80,66
+548,2020,16,West Coast,Western Bulldogs,49,47
+549,2020,17,Adelaide,Carlton,56,72
+550,2020,17,Gold Coast,Collingwood,68,46
+551,2020,17,Richmond,Geelong,31,57
+552,2020,17,Melbourne,Greater Western Sydney,74,79
+553,2020,17,Western Bulldogs,Hawthorn,40,76
+554,2020,17,Fremantle,North Melbourne,35,99
+555,2020,17,Essendon,Port Adelaide,79,29
+556,2020,17,West Coast,St Kilda,50,65
+557,2020,17,Brisbane Lions,Sydney,41,73
+558,2020,18,Richmond,Adelaide,33,77
+559,2020,18,Carlton,Brisbane Lions,78,61
+560,2020,18,Port Adelaide,Collingwood,45,61
+561,2020,18,Melbourne,Essendon,49,68
+562,2020,18,Western Bulldogs,Fremantle,44,74
+563,2020,18,Gold Coast,Hawthorn,108,57
+564,2020,18,West Coast,North Melbourne,34,49
+565,2020,18,Greater Western Sydney,St Kilda,82,30
+566,2020,18,Geelong,Sydney,63,69
+567,2020,19,Richmond,Brisbane Lions,69,54
+568,2020,19,Geelong,Port Adelaide,58,42
+569,2020,19,Western Bulldogs,St Kilda,67,64
+570,2020,19,Collingwood,West Coast,75,76
+571,2020,20,Collingwood,Geelong,100,32
+572,2020,20,St Kilda,Richmond,80,49
+573,2020,21,Geelong,Brisbane Lions,42,82
+574,2020,21,Richmond,Port Adelaide,40,46
+575,2020,22,Geelong,Richmond,81,50
+576,2021,1,Geelong,Adelaide,103,91
+577,2021,1,Sydney,Brisbane Lions,94,125
+578,2021,1,Western Bulldogs,Collingwood,53,69
+579,2021,1,Hawthorn,Essendon,91,92
+580,2021,1,St Kilda,Greater Western Sydney,78,86
+581,2021,1,Fremantle,Melbourne,80,58
+582,2021,1,Port Adelaide,North Melbourne,65,117
+583,2021,1,Carlton,Richmond,105,80
+584,2021,1,Gold Coast,West Coast,83,58
+585,2021,2,Collingwood,Carlton,85,106
+586,2021,2,Greater Western Sydney,Fremantle,87,56
+587,2021,2,Brisbane Lions,Geelong,81,80
+588,2021,2,North Melbourne,Gold Coast,98,39
+589,2021,2,Richmond,Hawthorn,49,78
+590,2021,2,Essendon,Port Adelaide,119,65
+591,2021,2,Melbourne,St Kilda,73,91
+592,2021,2,Adelaide,Sydney,121,88
+593,2021,2,West Coast,Western Bulldogs,100,93
+594,2021,3,Gold Coast,Adelaide,95,85
+595,2021,3,Fremantle,Carlton,109,64
+596,2021,3,Brisbane Lions,Collingwood,72,73
+597,2021,3,St Kilda,Essendon,143,68
+598,2021,3,Hawthorn,Geelong,69,64
+599,2021,3,Melbourne,Greater Western Sydney,68,102
+600,2021,3,Western Bulldogs,North Melbourne,39,167
+601,2021,3,Sydney,Richmond,72,117
+602,2021,3,Port Adelaide,West Coast,108,71
+603,2021,4,Greater Western Sydney,Collingwood,60,90
+604,2021,4,Hawthorn,Fremantle,96,81
+605,2021,4,Carlton,Gold Coast,59,70
+606,2021,4,Geelong,Melbourne,85,60
+607,2021,4,Adelaide,North Melbourne,68,109
+608,2021,4,Richmond,Port Adelaide,79,77
+609,2021,4,West Coast,St Kilda,102,82
+610,2021,4,Essendon,Sydney,83,80
+611,2021,4,Brisbane Lions,Western Bulldogs,73,54
+612,2021,5,Fremantle,Adelaide,72,84
+613,2021,5,Essendon,Brisbane Lions,102,45
+614,2021,5,Port Adelaide,Carlton,68,96
+615,2021,5,North Melbourne,Geelong,77,47
+616,2021,5,Melbourne,Hawthorn,54,104
+617,2021,5,Richmond,St Kilda,48,134
+618,2021,5,Greater Western Sydney,Sydney,69,71
+619,2021,5,Collingwood,West Coast,103,76
+620,2021,5,Gold Coast,Western Bulldogs,118,56
+621,2021,6,Brisbane Lions,Carlton,85,103
+622,2021,6,Essendon,Collingwood,85,109
+623,2021,6,North Melbourne,Fremantle,99,48
+624,2021,6,West Coast,Geelong,136,39
+625,2021,6,Sydney,Gold Coast,100,60
+626,2021,6,Western Bulldogs,Greater Western Sydney,65,104
+627,2021,6,Adelaide,Hawthorn,102,99
+628,2021,6,Richmond,Melbourne,82,48
+629,2021,6,St Kilda,Port Adelaide,93,39
+630,2021,7,Greater Western Sydney,Adelaide,39,106
+631,2021,7,Port Adelaide,Brisbane Lions,93,44
+632,2021,7,Gold Coast,Collingwood,55,79
+633,2021,7,Carlton,Essendon,107,123
+634,2021,7,Melbourne,North Melbourne,73,103
+635,2021,7,Western Bulldogs,Richmond,77,55
+636,2021,7,Hawthorn,St Kilda,128,59
+637,2021,7,Geelong,Sydney,90,88
+638,2021,7,Fremantle,West Coast,132,73
+639,2021,8,Fremantle,Brisbane Lions,95,71
+640,2021,8,St Kilda,Gold Coast,54,63
+641,2021,8,Essendon,Greater Western Sydney,107,105
+642,2021,8,West Coast,Hawthorn,60,98
+643,2021,8,Sydney,Melbourne,67,58
+644,2021,8,Collingwood,North Melbourne,76,94
+645,2021,8,Adelaide,Port Adelaide,87,38
+646,2021,8,Geelong,Richmond,63,126
+647,2021,8,Carlton,Western Bulldogs,107,91
+648,2021,9,Fremantle,Essendon,68,61
+649,2021,9,Brisbane Lions,Gold Coast,51,124
+650,2021,9,North Melbourne,Hawthorn,80,87
+651,2021,9,Carlton,Melbourne,94,68
+652,2021,9,Western Bulldogs,Port Adelaide,77,96
+653,2021,9,Greater Western Sydney,Richmond,87,83
+654,2021,9,Geelong,St Kilda,47,68
+655,2021,9,Collingwood,Sydney,72,42
+656,2021,9,Adelaide,West Coast,106,76
+657,2021,10,Melbourne,Adelaide,96,95
+658,2021,10,Richmond,Brisbane Lions,102,74
+659,2021,10,Hawthorn,Carlton,86,63
+660,2021,10,Port Adelaide,Collingwood,58,59
+661,2021,10,North Melbourne,Essendon,141,69
+662,2021,10,Sydney,Fremantle,86,84
+663,2021,10,Gold Coast,Geelong,91,57
+664,2021,10,West Coast,Greater Western Sydney,93,77
+665,2021,10,St Kilda,Western Bulldogs,144,33
+666,2021,11,Greater Western Sydney,Brisbane Lions,129,65
+667,2021,11,Geelong,Collingwood,51,61
+668,2021,11,Hawthorn,Gold Coast,113,76
+669,2021,11,Fremantle,Port Adelaide,115,69
+670,2021,11,Adelaide,Richmond,111,83
+671,2021,11,North Melbourne,St Kilda,88,68
+672,2021,11,Carlton,Sydney,100,78
+673,2021,11,Essendon,West Coast,71,87
+674,2021,11,Melbourne,Western Bulldogs,59,87
+675,2021,12,Collingwood,Adelaide,73,78
+676,2021,12,West Coast,Carlton,73,95
+677,2021,12,Richmond,Essendon,84,123
+678,2021,12,Western Bulldogs,Fremantle,65,93
+679,2021,12,Brisbane Lions,Melbourne,97,75
+680,2021,12,St Kilda,Sydney,92,83
+681,2021,13,Gold Coast,Fremantle,76,49
+682,2021,13,Collingwood,Melbourne,63,80
+683,2021,13,Greater Western Sydney,North Melbourne,94,94
+684,2021,13,Geelong,Port Adelaide,91,112
+685,2021,13,Adelaide,St Kilda,60,66
+686,2021,13,Hawthorn,Sydney,51,89
+687,2021,13,Richmond,West Coast,85,81
+688,2021,14,Western Bulldogs,Geelong,83,78
+689,2021,14,Port Adelaide,Gold Coast,31,81
+690,2021,14,Carlton,Greater Western Sydney,102,66
+691,2021,14,Essendon,Hawthorn,73,86
+692,2021,14,Brisbane Lions,North Melbourne,45,68
+693,2021,15,Geelong,Brisbane Lions,94,50
+694,2021,15,Adelaide,Carlton,83,73
+695,2021,15,Fremantle,Collingwood,79,91
+696,2021,15,Melbourne,Essendon,57,68
+697,2021,15,Hawthorn,Greater Western Sydney,72,90
+698,2021,15,Gold Coast,North Melbourne,72,63
+699,2021,15,Sydney,Port Adelaide,81,71
+700,2021,15,St Kilda,Richmond,22,62
+701,2021,15,Western Bulldogs,West Coast,43,98
+702,2021,16,Brisbane Lions,Adelaide,59,111
+703,2021,16,St Kilda,Collingwood,61,70
+704,2021,16,Carlton,Fremantle,64,80
+705,2021,16,Essendon,Geelong,98,57
+706,2021,16,Richmond,Gold Coast,77,67
+707,2021,16,Port Adelaide,Hawthorn,53,87
+708,2021,16,Greater Western Sydney,Melbourne,55,64
+709,2021,16,West Coast,Sydney,118,26
+710,2021,16,North Melbourne,Western Bulldogs,108,79
+711,2021,17,St Kilda,Brisbane Lions,63,95
+712,2021,17,Geelong,Carlton,44,70
+713,2021,17,Adelaide,Essendon,84,21
+714,2021,17,Gold Coast,Greater Western Sydney,64,65
+715,2021,17,Fremantle,Hawthorn,46,108
+716,2021,17,Melbourne,Port Adelaide,55,86
+717,2021,17,Collingwood,Richmond,71,87
+718,2021,17,North Melbourne,West Coast,60,70
+719,2021,17,Sydney,Western Bulldogs,60,79
+720,2021,18,West Coast,Adelaide,56,98
+721,2021,18,Carlton,Collingwood,62,91
+722,2021,18,Geelong,Fremantle,31,100
+723,2021,18,Western Bulldogs,Gold Coast,79,90
+724,2021,18,Sydney,Greater Western Sydney,72,98
+725,2021,18,Hawthorn,Melbourne,79,79
+726,2021,18,Essendon,North Melbourne,74,92
+727,2021,18,Brisbane Lions,Richmond,106,86
+728,2021,18,Port Adelaide,St Kilda,61,74
+729,2021,19,Hawthorn,Adelaide,102,83
+730,2021,19,Gold Coast,Brisbane Lions,120,71
+731,2021,19,North Melbourne,Carlton,77,116
+732,2021,19,Greater Western Sydney,Essendon,53,66
+733,2021,19,Richmond,Geelong,95,57
+734,2021,19,Western Bulldogs,Melbourne,65,85
+735,2021,19,Collingwood,Port Adelaide,97,69
+736,2021,19,Fremantle,Sydney,98,58
+737,2021,19,St Kilda,West Coast,94,86
+738,2021,20,West Coast,Collingwood,90,45
+739,2021,20,Sydney,Essendon,102,109
+740,2021,20,Richmond,Fremantle,55,51
+741,2021,20,Melbourne,Gold Coast,30,128
+742,2021,20,Port Adelaide,Greater Western Sydney,73,100
+743,2021,20,Brisbane Lions,Hawthorn,92,80
+744,2021,20,Geelong,North Melbourne,42,62
+745,2021,20,Carlton,St Kilda,81,112
+746,2021,20,Adelaide,Western Bulldogs,105,56
+747,2021,21,Port Adelaide,Adelaide,51,55
+748,2021,21,Gold Coast,Carlton,57,76
+749,2021,21,Brisbane Lions,Fremantle,54,118
+750,2021,21,Greater Western Sydney,Geelong,65,84
+751,2021,21,Collingwood,Hawthorn,97,78
+752,2021,21,North Melbourne,Richmond,89,56
+753,2021,21,Sydney,St Kilda,93,64
+754,2021,21,Melbourne,West Coast,63,72
+755,2021,21,Essendon,Western Bulldogs,84,97
+756,2021,22,Collingwood,Brisbane Lions,142,57
+757,2021,22,West Coast,Fremantle,79,64
+758,2021,22,St Kilda,Geelong,85,71
+759,2021,22,Essendon,Gold Coast,30,98
+760,2021,22,Richmond,Greater Western Sydney,106,67
+761,2021,22,Western Bulldogs,Hawthorn,64,37
+762,2021,22,Adelaide,Melbourne,104,63
+763,2021,22,Sydney,North Melbourne,77,91
+764,2021,22,Carlton,Port Adelaide,140,45
+765,2021,23,North Melbourne,Adelaide,98,54
+766,2021,23,West Coast,Brisbane Lions,125,87
+767,2021,23,Greater Western Sydney,Carlton,75,89
+768,2021,23,Collingwood,Essendon,102,64
+769,2021,23,Melbourne,Geelong,77,81
+770,2021,23,Hawthorn,Richmond,83,83
+771,2021,23,Fremantle,St Kilda,107,49
+772,2021,23,Gold Coast,Sydney,136,49
+773,2021,23,Port Adelaide,Western Bulldogs,64,66
+774,2021,24,Brisbane Lions,Melbourne,93,60
+775,2021,24,Geelong,Port Adelaide,86,43
+776,2021,24,Greater Western Sydney,Sydney,73,74
+777,2021,24,Essendon,Western Bulldogs,85,36
+778,2021,25,Western Bulldogs,Brisbane Lions,78,79
+779,2021,25,Greater Western Sydney,Geelong,103,68
+780,2021,26,Geelong,Melbourne,125,42
+781,2021,26,Western Bulldogs,Port Adelaide,45,116
+782,2021,27,Western Bulldogs,Melbourne,140,66
+783,2022,1,Fremantle,Adelaide,82,83
+784,2022,1,Port Adelaide,Brisbane Lions,80,69
+785,2022,1,Richmond,Carlton,101,76
+786,2022,1,Essendon,Geelong,138,72
+787,2022,1,Sydney,Greater Western Sydney,92,112
+788,2022,1,North Melbourne,Hawthorn,78,58
+789,2022,1,Western Bulldogs,Melbourne,97,71
+790,2022,1,Collingwood,St Kilda,85,102
+791,2022,1,Gold Coast,West Coast,80,107
+792,2022,2,Adelaide,Collingwood,100,58
+793,2022,2,Brisbane Lions,Essendon,75,97
+794,2022,2,St Kilda,Fremantle,55,65
+795,2022,2,Melbourne,Gold Coast,69,82
+796,2022,2,West Coast,North Melbourne,74,59
+797,2022,2,Hawthorn,Port Adelaide,56,120
+798,2022,2,Greater Western Sydney,Richmond,109,73
+799,2022,2,Geelong,Sydney,107,77
+800,2022,2,Carlton,Western Bulldogs,90,102
+801,2022,3,Port Adelaide,Adelaide,96,92
+802,2022,3,North Melbourne,Brisbane Lions,156,48
+803,2022,3,Hawthorn,Carlton,74,73
+804,2022,3,Geelong,Collingwood,91,104
+805,2022,3,Gold Coast,Greater Western Sydney,83,57
+806,2022,3,Essendon,Melbourne,99,70
+807,2022,3,Richmond,St Kilda,117,84
+808,2022,3,Fremantle,West Coast,47,102
+809,2022,3,Sydney,Western Bulldogs,71,60
+810,2022,4,West Coast,Collingwood,74,87
+811,2022,4,Adelaide,Essendon,103,99
+812,2022,4,Greater Western Sydney,Fremantle,88,54
+813,2022,4,Brisbane Lions,Geelong,80,70
+814,2022,4,Carlton,Gold Coast,92,62
+815,2022,4,St Kilda,Hawthorn,73,142
+816,2022,4,Melbourne,Port Adelaide,36,68
+817,2022,4,Western Bulldogs,Richmond,99,61
+818,2022,4,North Melbourne,Sydney,86,75
+819,2022,5,Richmond,Adelaide,101,82
+820,2022,5,Collingwood,Brisbane Lions,98,91
+821,2022,5,Port Adelaide,Carlton,94,91
+822,2022,5,Fremantle,Essendon,59,107
+823,2022,5,Geelong,Hawthorn,92,80
+824,2022,5,Greater Western Sydney,Melbourne,120,53
+825,2022,5,Western Bulldogs,North Melbourne,71,139
+826,2022,5,Gold Coast,St Kilda,87,61
+827,2022,5,Sydney,West Coast,58,121
+828,2022,6,Collingwood,Essendon,82,93
+829,2022,6,Carlton,Fremantle,97,62
+830,2022,6,Brisbane Lions,Gold Coast,80,132
+831,2022,6,St Kilda,Greater Western Sydney,60,77
+832,2022,6,Sydney,Hawthorn,68,109
+833,2022,6,Geelong,North Melbourne,61,121
+834,2022,6,West Coast,Port Adelaide,117,33
+835,2022,6,Melbourne,Richmond,54,76
+836,2022,6,Adelaide,Western Bulldogs,62,63
+837,2022,7,Greater Western Sydney,Adelaide,54,113
+838,2022,7,North Melbourne,Carlton,114,64
+839,2022,7,Gold Coast,Collingwood,115,90
+840,2022,7,Fremantle,Geelong,66,69
+841,2022,7,Hawthorn,Melbourne,91,81
+842,2022,7,Port Adelaide,St Kilda,42,43
+843,2022,7,Brisbane Lions,Sydney,89,113
+844,2022,7,Richmond,West Coast,56,165
+845,2022,7,Essendon,Western Bulldogs,103,71
+846,2022,8,West Coast,Brisbane Lions,105,30
+847,2022,8,Adelaide,Carlton,116,68
+848,2022,8,Hawthorn,Essendon,108,81
+849,2022,8,North Melbourne,Fremantle,102,24
+850,2022,8,Geelong,Greater Western Sydney,35,88
+851,2022,8,St Kilda,Melbourne,93,55
+852,2022,8,Western Bulldogs,Port Adelaide,86,69
+853,2022,8,Collingwood,Richmond,113,86
+854,2022,8,Gold Coast,Sydney,61,75
+855,2022,9,Brisbane Lions,Adelaide,66,102
+856,2022,9,Western Bulldogs,Collingwood,51,99
+857,2022,9,Fremantle,Gold Coast,69,33
+858,2022,9,Carlton,Greater Western Sydney,75,105
+859,2022,9,Richmond,Hawthorn,94,117
+860,2022,9,Port Adelaide,North Melbourne,46,115
+861,2022,9,Geelong,St Kilda,90,80
+862,2022,9,Essendon,Sydney,105,47
+863,2022,9,Melbourne,West Coast,38,112
+864,2022,10,St Kilda,Adelaide,69,90
+865,2022,10,Sydney,Carlton,102,87
+866,2022,10,Collingwood,Fremantle,44,80
+867,2022,10,Port Adelaide,Geelong,82,47
+868,2022,10,West Coast,Greater Western Sydney,138,86
+869,2022,10,Brisbane Lions,Hawthorn,117,112
+870,2022,10,Melbourne,North Melbourne,53,100
+871,2022,10,Essendon,Richmond,80,48
+872,2022,10,Gold Coast,Western Bulldogs,106,87
+873,2022,11,Greater Western Sydney,Brisbane Lions,110,96
+874,2022,11,Carlton,Collingwood,79,75
+875,2022,11,Adelaide,Geelong,97,55
+876,2022,11,Hawthorn,Gold Coast,121,54
+877,2022,11,Fremantle,Melbourne,56,94
+878,2022,11,Essendon,Port Adelaide,66,50
+879,2022,11,North Melbourne,St Kilda,103,50
+880,2022,11,Richmond,Sydney,106,100
+881,2022,11,Western Bulldogs,West Coast,60,161
+882,2022,12,West Coast,Adelaide,88,57
+883,2022,12,Brisbane Lions,Fremantle,99,85
+884,2022,12,North Melbourne,Gold Coast,109,47
+885,2022,12,Collingwood,Hawthorn,68,72
+886,2022,12,Sydney,Melbourne,61,73
+887,2022,12,Geelong,Western Bulldogs,70,83
+888,2022,13,St Kilda,Brisbane Lions,78,57
+889,2022,13,Melbourne,Collingwood,82,56
+890,2022,13,Carlton,Essendon,54,80
+891,2022,13,Hawthorn,Fremantle,95,82
+892,2022,13,Greater Western Sydney,North Melbourne,53,102
+893,2022,13,Port Adelaide,Richmond,77,65
+894,2022,14,Adelaide,Gold Coast,116,73
+895,2022,14,Western Bulldogs,Greater Western Sydney,105,125
+896,2022,14,Sydney,Port Adelaide,82,59
+897,2022,14,Carlton,Richmond,81,66
+898,2022,14,Essendon,St Kilda,72,107
+899,2022,14,Geelong,West Coast,63,81
+900,2022,15,Fremantle,Carlton,81,50
+901,2022,15,Greater Western Sydney,Collingwood,88,77
+902,2022,15,Richmond,Geelong,89,86
+903,2022,15,Brisbane Lions,Melbourne,117,53
+904,2022,15,Adelaide,North Melbourne,58,115
+905,2022,15,Gold Coast,Port Adelaide,93,91
+906,2022,15,St Kilda,Sydney,83,32
+907,2022,15,Essendon,West Coast,107,97
+908,2022,15,Hawthorn,Western Bulldogs,125,83
+909,2022,16,Melbourne,Adelaide,65,94
+910,2022,16,Western Bulldogs,Brisbane Lions,108,67
+911,2022,16,St Kilda,Carlton,78,93
+912,2022,16,Sydney,Essendon,95,86
+913,2022,16,Port Adelaide,Fremantle,99,91
+914,2022,16,North Melbourne,Geelong,144,32
+915,2022,16,Collingwood,Gold Coast,62,67
+916,2022,16,Hawthorn,Greater Western Sydney,72,50
+917,2022,16,West Coast,Richmond,128,93
+918,2022,17,Essendon,Brisbane Lions,90,100
+919,2022,17,North Melbourne,Collingwood,88,81
+920,2022,17,Melbourne,Geelong,91,63
+921,2022,17,Richmond,Gold Coast,94,92
+922,2022,17,Adelaide,Hawthorn,86,54
+923,2022,17,Greater Western Sydney,Port Adelaide,84,29
+924,2022,17,Fremantle,St Kilda,70,111
+925,2022,17,Western Bulldogs,Sydney,120,67
+926,2022,17,Carlton,West Coast,53,116
+927,2022,18,Collingwood,Adelaide,86,91
+928,2022,18,Geelong,Carlton,55,85
+929,2022,18,Gold Coast,Essendon,103,55
+930,2022,18,Sydney,Fremantle,65,82
+931,2022,18,Brisbane Lions,Greater Western Sydney,59,99
+932,2022,18,West Coast,Hawthorn,102,77
+933,2022,18,Port Adelaide,Melbourne,83,69
+934,2022,18,Richmond,North Melbourne,92,88
+935,2022,18,St Kilda,Western Bulldogs,84,56
+936,2022,19,Gold Coast,Brisbane Lions,110,93
+937,2022,19,Greater Western Sydney,Carlton,90,54
+938,2022,19,Essendon,Collingwood,80,76
+939,2022,19,Hawthorn,North Melbourne,75,121
+940,2022,19,Geelong,Port Adelaide,94,106
+941,2022,19,Fremantle,Richmond,52,52
+942,2022,19,Adelaide,Sydney,118,85
+943,2022,19,St Kilda,West Coast,62,90
+944,2022,19,Melbourne,Western Bulldogs,110,100
+945,2022,20,Carlton,Adelaide,84,55
+946,2022,20,Port Adelaide,Collingwood,88,82
+947,2022,20,North Melbourne,Essendon,114,66
+948,2022,20,Melbourne,Fremantle,39,85
+949,2022,20,Western Bulldogs,Geelong,94,66
+950,2022,20,West Coast,Gold Coast,107,104
+951,2022,20,Brisbane Lions,Richmond,104,97
+952,2022,20,Hawthorn,St Kilda,75,63
+953,2022,20,Greater Western Sydney,Sydney,112,39
+954,2022,21,Carlton,Brisbane Lions,114,81
+955,2022,21,St Kilda,Geelong,110,65
+956,2022,21,Essendon,Greater Western Sydney,96,69
+957,2022,21,Gold Coast,Hawthorn,70,63
+958,2022,21,Collingwood,Melbourne,89,96
+959,2022,21,Sydney,North Melbourne,88,126
+960,2022,21,Richmond,Port Adelaide,71,109
+961,2022,21,Adelaide,West Coast,86,102
+962,2022,21,Fremantle,Western Bulldogs,78,95
+963,2022,22,North Melbourne,Adelaide,103,74
+964,2022,22,Port Adelaide,Essendon,62,146
+965,2022,22,West Coast,Fremantle,71,47
+966,2022,22,Geelong,Gold Coast,59,119
+967,2022,22,Carlton,Melbourne,79,74
+968,2022,22,Hawthorn,Richmond,128,67
+969,2022,22,Brisbane Lions,St Kilda,66,81
+970,2022,22,Collingwood,Sydney,77,50
+971,2022,22,Greater Western Sydney,Western Bulldogs,62,57
+972,2022,23,Melbourne,Brisbane Lions,57,115
+973,2022,23,Collingwood,Carlton,74,75
+974,2022,23,Richmond,Essendon,75,141
+975,2022,23,West Coast,Geelong,131,46
+976,2022,23,Fremantle,Greater Western Sydney,69,89
+977,2022,23,Western Bulldogs,Hawthorn,64,87
+978,2022,23,Gold Coast,North Melbourne,47,114
+979,2022,23,Adelaide,Port Adelaide,111,55
+980,2022,23,Sydney,St Kilda,74,88
+981,2022,24,Richmond,Brisbane Lions,106,104
+982,2022,24,Western Bulldogs,Fremantle,73,60
+983,2022,24,Collingwood,Geelong,78,72
+984,2022,24,Sydney,Melbourne,69,91
+985,2022,25,Fremantle,Collingwood,79,59
+986,2022,25,Brisbane Lions,Melbourne,79,92
+987,2022,26,Brisbane Lions,Geelong,120,49
+988,2022,26,Collingwood,Sydney,95,94
+989,2022,27,Sydney,Geelong,133,52
